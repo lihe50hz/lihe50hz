@@ -4,7 +4,7 @@
 
 - 🌱 My research interests lie in visual generative model and computer vision. And I'm still in the process of exploring the field of artificial intelligence.
 
-- 🔭 I have already participate in several reseach projects and I'm really into the process of doing AI researches. I plan to apply for CS PhD (in the field of AI) on 2025 Fall.
+- 🔭 I have already participate in several reseach projects and I'm really into the process of doing AI researches. I plan to apply for CS PhD (in the field of AI) on 2026 Fall.
 
 - 💬 Please check my [personal website](https://lihe50hz.github.io/) for more information!
 
